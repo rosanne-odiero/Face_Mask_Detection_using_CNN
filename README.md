@@ -18,10 +18,8 @@
 
 ### Repository Structure
 - data/: Contains the dataset used for training and testing the CNN.
-- image_processing.ipynb: Jupyter Notebook containing the image processing code.
-- train_model.ipynb: Jupyter Notebook containing the CNN model training code.
-- evaluate_model.ipynb: Jupyter Notebook containing the model evaluation code.
-- predict_image.ipynb: Jupyter Notebook demonstrating how to use the trained model for image prediction.
+- Face_Mask_Detection_using_CNN.ipynb: Jupyter Notebook containing the image processing code,CNN model training code, model evaluation code, .
+- train_model.ipynb: Jupyter Notebook containing the CNN model training code, demonstrating how to use the trained model for image prediction.
 - README.md: Documentation file providing an overview of the project and its workflow.
 ### Dependencies
 Python 3.10
